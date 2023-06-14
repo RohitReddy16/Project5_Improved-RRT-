@@ -4,7 +4,7 @@ Instuctions:
     To run the program ensure that you have the following libraries:
     time, pygame, numpy, shapely.geometry, , math    
 
-    Download the code using git clone: https://github.com/patrikpordi/Project_5
+    Download the code using git clone: gh repo clone RohitReddy16/Project5_Improved-RRT-
 
     
     For running the code use python3  in the linux or VSCode Terminal: python3 PATH/ <code>.py
